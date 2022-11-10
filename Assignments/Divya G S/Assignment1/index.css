@@ -1,0 +1,19 @@
+.full {
+  padding: 40px;
+  background-color: #cfd8dc;
+}
+.last {
+  border-radius: 0px 0px 15px 15px;
+}
+.banner {
+  background-color: gray;
+  border-radius: 15px 15px 0px 0px;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 15px 15px 15px 15px;
+}
+.container {
+  background-color: white;
+}
