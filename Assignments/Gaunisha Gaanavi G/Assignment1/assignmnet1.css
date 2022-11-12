@@ -1,0 +1,64 @@
+body {
+  background-color: white;
+  overflow: hidden;
+  font-family: "sans-serif";
+}
+.topnav {
+  background-color: #17399f;
+  margin-top: 20px;
+  height: 160px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+div {
+  margin-bottom: 0px;
+  line-height: 0.1em;
+}
+.div-logo {
+  top: 35px;
+  left: 250px;
+  position: fixed;
+  width: 80px;
+  height: 80px;
+}
+.right-logo {
+  float: right;
+  margin-left: 500px;
+  margin-right: 80px;
+  margin-top: 25px;
+}
+.top-text {
+  color: white;
+  margin-top: 0px;
+  margin-left: 200px;
+}
+.main {
+  background-color: #c6c8dd;
+  height: 500px;
+  padding-top: 0px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.text {
+  margin-left: 35px;
+  margin-top: 0px;
+  line-height: 1.2em;
+}
+.right-text {
+  float: right;
+  margin-right: 330px;
+  line-height: 1.5em;
+  margin-top: 15px;
+}
+.last {
+  line-height: 0.8em;
+  margin-left: 20px;
+}
+.last-right {
+  margin-left: 400px;
+}
+progress {
+  color: #a78cd9;
+  background: white;
+  border: groove;
+}
